@@ -1,6 +1,4 @@
 media-plugins/alsa-plugins pulseaudio -pipewire
-virtual/pulseaudio pulseaudio -pipewire
-virtual/libpulse pulseaudio -pipewire
 dev-libs/libdbusmenu gtk3
 media-libs/libsdl2 -pipewire pulseaudio alsa
 sys-boot/os-prober mount
