@@ -1,0 +1,3 @@
+*/* ~amd64
+sys-firmware/linux-firmware **
+mate-extra/mate-tweak ~amd64
