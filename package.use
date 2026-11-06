@@ -2,3 +2,5 @@ media-plugins/alsa-plugins pulseaudio -pipewire
 dev-libs/libdbusmenu gtk3
 media-libs/libsdl2 -pipewire pulseaudio alsa
 sys-boot/os-prober mount
+media-video/mpv -pipewire pulseaudio
+sys-apps/xdg-desktop-portal -screencast
